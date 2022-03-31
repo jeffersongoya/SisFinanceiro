@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/03/30 20:38:34.606,=C:\Users\Jefferson\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/30 21:10:07.184,D:\Desenvolvimento\Datapar\uPrincipal.dfm=C:\Users\Jefferson\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/03/30 21:10:07.184,D:\Desenvolvimento\Datapar\uPrincipal.pas=C:\Users\Jefferson\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/30 21:10:27.757,D:\Desenvolvimento\Datapar\SisFinanceiro.dproj=C:\Users\Jefferson\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/03/30 21:15:26.169,=D:\Desenvolvimento\Datapar\Unit1.pas</Transaction>
+    <Transaction>2022/03/30 21:20:30.965,D:\Desenvolvimento\Datapar\uCalculo.pas=D:\Desenvolvimento\Datapar\Unit1.pas</Transaction>
+    <Transaction>2022/03/30 21:20:30.965,D:\Desenvolvimento\Datapar\uCalculo.dfm=D:\Desenvolvimento\Datapar\Unit1.dfm</Transaction>
+    <Transaction>2022/03/30 23:30:28.536,=D:\Desenvolvimento\Datapar\Unit1.pas</Transaction>
+    <Transaction>2022/03/31 01:07:53.025,D:\Desenvolvimento\Datapar\uAbout.pas=D:\Desenvolvimento\Datapar\Unit1.pas</Transaction>
+    <Transaction>2022/03/31 01:07:53.025,D:\Desenvolvimento\Datapar\uAbout.dfm=D:\Desenvolvimento\Datapar\Unit1.dfm</Transaction>
+    <Transaction>2022/03/31 14:17:11.991,=D:\Desenvolvimento\Datapar\Unit1.pas</Transaction>
+    <Transaction>2022/03/31 14:32:41.030,D:\Desenvolvimento\Datapar\uAbertura.dfm=D:\Desenvolvimento\Datapar\Unit1.dfm</Transaction>
+    <Transaction>2022/03/31 14:32:41.030,D:\Desenvolvimento\Datapar\uAbertura.pas=D:\Desenvolvimento\Datapar\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
